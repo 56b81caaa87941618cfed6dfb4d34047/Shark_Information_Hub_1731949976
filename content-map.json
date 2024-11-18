@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "SharkSpotter",
+        "HERO_HEADING_TEXT": "Dive into the Fascinating World of Sharks",
+        "HERO_SUBHEADING_TEXT": "Explore, learn, and discover the incredible diversity of these ocean predators",
+        "FOOTER_TEXT": "\u00a9 2023 SharkSpotter | Protecting sharks through education and awareness"
+    }
+}
